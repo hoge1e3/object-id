@@ -1,0 +1,23 @@
+{
+  "name": "object-id",
+  "version": "1.0.0",
+  "description": "Assign an unique id to an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tsc && node js/test/test.js"
+  },
+  "keywords": [],
+  "author": "hoge1e3 <hoge1e3@gmail.com> (https://github.com/hoge1e3/)",
+  "license": "ISC",
+  "type":"module",
+  "types": "types/object-id.d.ts",
+  "dependencies": {
+    "uniqid": "^5.4.0"
+  },
+  "devDependencies": {
+    "@types/assert": "^1.5.11",
+    "@types/uniqid": "^5.3.4",
+    "assert": "^2.1.0",
+    "typescript": "^5.7.2"
+  }
+}
