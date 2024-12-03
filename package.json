@@ -1,5 +1,5 @@
 {
-  "name": "object-id",
+  "name": "@hoge1e3/object-id",
   "version": "1.0.0",
   "description": "Assign an unique id to an object",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "test": "npx tsc && node js/test/test.js"
   },
   "keywords": [],
+  "repository": "https://github.com/hoge1e3/object-id",
   "author": "hoge1e3 <hoge1e3@gmail.com> (https://github.com/hoge1e3/)",
   "license": "ISC",
   "type":"module",
